@@ -60,4 +60,4 @@ If you choose to reference my implementation(s) of an MNIST classifyier you woul
 
 - Scikit-Learn
 
-It is recommended that you use Python3, and Keras if you are a beginner, because of their 
+As for your own implementation, it's recommended to use Python3 and Keras if you are a beginner. Keras is more high level than Tensorflow, making it more beginner friendly.
