@@ -1,6 +1,6 @@
 # MacAI MNIST Challenge
 
-Submission deadline: Thursday Feb 28th 2019
+**Submission deadline: Thursday Feb 28th 2019**
 
 ![alt text](https://raw.githubusercontent.com/Jzar/MacAI-MNIST-Challenge/master/MNIST.png)
 
